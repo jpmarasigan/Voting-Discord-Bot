@@ -7,5 +7,5 @@ This Python script enables a simple yet effective voting system within a Discord
 1. Clone or download the repository to your local machine.
 2. Install the required dependencies **_pip install discord_**.
 3. Go to Discord Developer Portal, Sign in, Create App, and Generate your Token.
-4. Configure the expired discord token in the **_config.json_** file.
+4. Configure the expired discord token in the **_config.json_** file and paste the new valid token.
 5. Run the **_main.py_** script.
