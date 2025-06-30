@@ -26,3 +26,5 @@ This Python script enables a simple yet effective voting system within a Discord
     * Copy and open the generated URL in your browser
     * Invite the bot to your server
 6. Run the **_main.py_** script.
+   ```bash
+   python main.py
